@@ -1,4 +1,4 @@
-# ChatPlatform
+# ChatterBox
 
 ChatPlatform is a straightforward web application that allows users to upload, delete, and read chats shared by others. It provides a basic platform for communication and interaction between users through text messages.
 
