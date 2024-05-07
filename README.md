@@ -1,6 +1,6 @@
 # ChatterBox
 
-ChatPlatform is a straightforward web application that allows users to upload, delete, and read chats shared by others. It provides a basic platform for communication and interaction between users through text messages.
+ChatterBox is a straightforward web application that allows users to upload, delete, and read chats shared by others. It provides a basic platform for communication and interaction between users through text messages.
 
 ## Features
 
@@ -20,7 +20,7 @@ ChatPlatform is a straightforward web application that allows users to upload, d
 
 ## Getting Started
 
-To get started with ChatPlatform, follow these steps:
+To get started with ChatterBox, follow these steps:
 
 1. Clone the repository to your local machine.
 2. Install dependencies using `npm install`.
