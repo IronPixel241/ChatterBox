@@ -1,0 +1,22 @@
+body{
+    margin-left: 20px;
+}
+
+.chat{
+    background-color: #f7f0ff;
+    border-radius: 20px;
+    padding: 20px;
+    display: inline-block;
+    width: 295px;
+}
+
+.msg{
+    background-color: #b6f1d7;
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+.m{
+    text-align: center;
+}
